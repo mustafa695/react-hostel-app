@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585769449145",
+    "project_id": "hostel-app-353411",
+    "storage_bucket": "hostel-app-353411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585769449145:android:89a427e8d9c9c335ba8d68",
+        "android_client_info": {
+          "package_name": "com.mahostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585769449145-vp449cohd3c8ste7j44kdaabj3oupatd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyH8FD-54f-d1Cie5bX6RWA387Mo_-2Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585769449145-vp449cohd3c8ste7j44kdaabj3oupatd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
